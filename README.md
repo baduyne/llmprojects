@@ -2,14 +2,17 @@
 
 ## 1. Cài đặt Ollama
 
-1. Tải xuống và cài đặt Ollama từ https://ollama.com.
+1. Tải xuống và cài đặt Ollama từ https://ollama.com
+   
 📌 Lưu ý: Trên PC, bạn có thể cần quyền admin để cài đặt thành công.
 
 2. Mở giao diện dòng lệnh:
+   
 Trên Windows: Nhấn Win + R, gõ cmd, rồi nhấn Enter.
 Trên Mac: Mở Terminal (Applications > Utilities > Terminal).
 
-4. Chạy mô hình:
+3. Chạy mô hình:
+   
 Run `ollama run llama3.2` , đối với máy yếu hơn `ollama run llama3.2:1b`
 🚫 Tránh sử dụng mô hình mới nhất `llama3.3` của Meta vì nó có 70B tham số, quá lớn với hầu hết máy tính cá nhân!
 
@@ -33,14 +36,17 @@ Dù mất công ban đầu, nhưng Anaconda giúp bạn tránh được rất nh
 Bước này giúp bạn có một bản sao mã nguồn trên máy tính của mình.
 
 1. Cài đặt Git (nếu chưa có)
+   
    Tải Git từ: https://git-scm.com/download/win
    
    Chạy trình cài đặt và làm theo hướng dẫn, sử dụng tùy chọn mặc định (chỉ cần nhấn OK nhiều lần!)
    
-3. Mở Command Prompt
+2. Mở Command Prompt
+   
    Nhấn `Win + R`, gõ `cmd`, sau đó nhấn `Enter`
    
-5. Điều hướng đến thư mục dự án
+3. Điều hướng đến thư mục dự án
+   
    Nếu bạn có một thư mục riêng cho các dự án, hãy điều hướng đến đó bằng lệnh cd:
    `cd C:\Users\YourUsername\Projects`
    
@@ -49,7 +55,8 @@ Bước này giúp bạn có một bản sao mã nguồn trên máy tính của 
    `mkdir C:\Users\YourUsername\Projects`
    
    `cd C:\Users\YourUsername\Projects`
-7. Clone Repository
+4. Clone Repository
+   
    Nhập lệnh sau vào Command Prompt (trong thư mục Projects):
    `git clone https://github.com/tam1511/llmprojects.git`
    
@@ -63,11 +70,13 @@ Bước này giúp bạn có một bản sao mã nguồn trên máy tính của 
 ### 2.2 Install Anaconda environment
 
 1. Tải và cài đặt Anaconda
+   
 Tải Anaconda từ: https://docs.anaconda.com/anaconda/install/windows/
 
 Chạy trình cài đặt và làm theo hướng dẫn. Lưu ý rằng Anaconda chiếm vài GB dung lượng và quá trình cài đặt có thể mất thời gian.
 
-3. Thiết lập môi trường
+2. Thiết lập môi trường
+   
 Mở Anaconda Prompt:
 
 Tìm kiếm Anaconda Prompt trong Start Menu và mở nó.
@@ -77,6 +86,7 @@ Tìm kiếm Anaconda Prompt trong Start Menu và mở nó.
 Nhập lệnh sau, thay YourUsername bằng tên thực của bạn: `cd C:\Users\YourUsername\Projects\llmprojects`
 
 3. Kích hoạt môi trường
+   
 Sau khi cài đặt hoàn tất, kích hoạt môi trường mới bằng lệnh: `conda activate llms`
 
    
