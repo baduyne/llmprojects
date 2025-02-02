@@ -9,14 +9,17 @@
 2. Mở giao diện dòng lệnh:
    
 Trên Windows: Nhấn Win + R, gõ cmd, rồi nhấn Enter.
+
 Trên Mac: Mở Terminal (Applications > Utilities > Terminal).
 
 3. Chạy mô hình:
    
 Run `ollama run llama3.2` , đối với máy yếu hơn `ollama run llama3.2:1b`
+
 🚫 Tránh sử dụng mô hình mới nhất `llama3.3` của Meta vì nó có 70B tham số, quá lớn với hầu hết máy tính cá nhân!
 
 Nếu không hoạt động, thử chạy máy chủ: Trên Windows (Powershell) hoặc Mac (Terminal): `ollama serve`  
+
 Sau đó thử lại bước 3.
 
 ## 2. Setup Environment
@@ -33,6 +36,7 @@ Lưu ý: Quá trình cài đặt có thể mất thời gian và Dung lượng �
 Dù mất công ban đầu, nhưng Anaconda giúp bạn tránh được rất nhiều lỗi về môi trường sau này!
 
 ### 2.1 Clone Repository
+
 Bước này giúp bạn có một bản sao mã nguồn trên máy tính của mình.
 
 1. Cài đặt Git (nếu chưa có)
