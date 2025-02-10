@@ -2,12 +2,12 @@
 
 ## 1. Cài đặt Git (nếu chưa có)
 
-- Truy cập https://git-scm.com/downloads/mac /n
+- Truy cập https://git-scm.com/downloads/mac 
 - Cài đặt Homebrew.
 - Open Terminal (Applications > Utilities > Terminal) dán
 
--   `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` /n
-- Cài đặt Git `$ brew install git` /n
+-   `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` 
+- Cài đặt Git `$ brew install git` 
 
 ## 2. Điều hướng đến thư mục dự án
 
