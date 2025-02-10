@@ -13,11 +13,11 @@
 
 Nếu bạn có một thư mục riêng cho các dự án, hãy điều hướng đến đó bằng lệnh cd: 
 
-cd ~/Documents/Projects
+`cd ~/Documents/Projects`
 
 Nếu chưa có thư mục dự án, hãy tạo một thư mục mới:
 
-mkdir ~/Documents/Projects
+`mkdir ~/Documents/Projects`
 
 ## 3. Clone Repository
 
@@ -27,7 +27,7 @@ Nhập lệnh sau vào Terminal (trong thư mục Projects):
 
 Lệnh này sẽ tạo một thư mục mới có tên llmprojects bên trong thư mục Projects và tải mã nguồn về.
 
-Đi vào thư mục dự án: cd llmprojects
+Đi vào thư mục dự án: `cd llmprojects`
 
 thư mục llmprojects sẽ là thư mục gốc của dự án
 
