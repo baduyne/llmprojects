@@ -59,9 +59,23 @@ Tìm kiếm Anaconda Prompt trong Start Menu và mở nó.
 
 Nhập lệnh sau, thay YourUsername bằng tên thực của bạn: `cd C:\Users\YourUsername\Projects\llmprojects`
 
+Sau đó, chạy: `dir` để kiểm tra xem bạn có thấy các thư mục con của dự án hay không
+
+**Tạo môi trường trong Anaconda**
+
+Chạy lệnh sau để tạo môi trường từ file `environment.yml`:
+
+conda env create -f environment.yml
+
+*Lưu ý:*
+
+*Quá trình này có thể mất 20-30 phút, thậm chí lâu hơn nếu bạn chưa từng sử dụng Anaconda trước đó hoặc nếu mạng chậm. Nếu gặp bất cứ vấn đề gì hãy chuyển sang cách thay thế khác (miniconda hoặc virtual environment)*
+
 ### 3. Kích hoạt môi trường
 
 Sau khi cài đặt hoàn tất, kích hoạt môi trường mới bằng lệnh: `conda activate llms`
+
+Nếu thành công, bạn sẽ thấy (llms) xuất hiện trong dòng lệnh, báo hiệu rằng môi trường đã được kích hoạt. 
 
 # Cách thay thế Anaconda - Tạo Virtual Environment
 
