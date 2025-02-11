@@ -106,6 +106,7 @@ Chạy lệnh sau để tạo một môi trường ảo mới:
 
 Nếu thành công, bạn sẽ thấy (llms) xuất hiện trong dòng lệnh, báo hiệu rằng môi trường ảo đã được kích hoạt. 
 
+Bạn cần cài đặt lại các thư viện cần dùng cho môi trường này!
 
 
 
