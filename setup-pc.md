@@ -42,7 +42,7 @@ Lưu ý: Quá trình cài đặt có thể mất thời gian và Dung lượng �
 
 Dù mất công ban đầu, nhưng Anaconda giúp bạn tránh được rất nhiều lỗi về môi trường sau này!
 
-*Tuy nhiên, không nhất thiết phải sử dụng Anaconda. Bạn có thể chọn một phương pháp thay thế khác. Cách này nhanh hơn, đơn giản hơn, nhưng có thể không đảm bảo được tính tương thích cao như Anaconda.*
+**Tuy nhiên, không nhất thiết phải sử dụng Anaconda. Bạn có thể chọn một phương pháp thay thế khác. Cách này nhanh hơn, đơn giản hơn, nhưng có thể không đảm bảo được tính tương thích cao như Anaconda.**
 
 ### 1. Tải và cài đặt Anaconda
 Tải Anaconda từ: https://docs.anaconda.com/anaconda/install/windows/
