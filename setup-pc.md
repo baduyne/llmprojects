@@ -65,7 +65,7 @@ Sau đó, chạy: `dir` để kiểm tra xem bạn có thấy các thư mục co
 
 Chạy lệnh sau để tạo môi trường từ file `environment.yml`:
 
-conda env create -f environment.yml
+`conda env create -f environment.yml`
 
 *Lưu ý:*
 
