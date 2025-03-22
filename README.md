@@ -1,10 +1,6 @@
 # llmprojects
 
-Cảm ơn bạn đã đồng hành cùng mình. Chúng ta sẽ cùng nhau xây dựng thêm các dự án về LLMs tại đây.
-
-Hy vọng chúng ta sẽ có a lot of fun trên hành trình này ^^
-
-Trước khi bắt đầu: Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý tưởng đóng góp để cải thiện và phát triển hơn, hãy cứ thoải mái liên hệ với mình qua email: timiofficial.vn@gmail.com
+Trước khi bắt đầu: Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý tưởng đóng góp để cải thiện và phát triển hơn, liên hệ với mình qua email: timiofficial.vn@gmail.com
 
 Chúng ta sẽ bắt đầu bằng việc cài đặt Ollama
 
