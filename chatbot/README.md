@@ -52,4 +52,6 @@ Hỗ trợ persist dữ liệu vector, metadata và document chunks.
 
 Dự án cũng triển khai thử nghiệm kỹ thuật Ensemble Hybrid Retrieval để cải thiện độ chính xác trong việc truy vấn thông tin
 
+assets/image.png
+
 📚 Tham khảo khóa học : [LLM Engineering: Master AI, Large Language Models & Agents](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?srsltid=AfmBOor6WsNolL8DlWIY6aKr7422R23lNaEAPuO61pquAhMiqgvEOyVu&couponCode=KEEPLEARNING)
