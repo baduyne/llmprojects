@@ -27,7 +27,9 @@ Giới thiệu khái niệm semantic search thông qua việc chuyển đổi v�
 🔍 Một số mô hình embedding tiêu biểu:
 
 Word2Vec	2013	[Link PDF](https://arxiv.org/pdf/1301.3781)
+
 BERT	2018	[Link PDF](https://arxiv.org/pdf/1810.04805)
+
 OpenAI Embedding	2024	[OpenAI Docs](https://platform.openai.com/docs/guides/embeddings)
 
 ### 3. Sử dụng Framework: Langchain
