@@ -80,4 +80,4 @@ Agents: LLM chủ động quyết định sử dụng công cụ nào, ra quyế
 
 Khóa học tham khảo: [The Complete Agentic AI Engineering Course (2025)](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/?couponCode=AGENTIC_AI_25_JUNE)
 
-** Lưu ý: Toàn bộ những gì mình chia sẽ đều là những gì mình học và tổng hợp được. No COMMERCIAL intent!!**
+**Lưu ý: Toàn bộ những gì mình chia sẽ đều là những gì mình học và tổng hợp được. No COMMERCIAL intent!!**
