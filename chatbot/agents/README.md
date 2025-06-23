@@ -71,6 +71,7 @@ Planning Capability
 Autonomy
 
 ⚙️ Hai thành phần chính trong Agentic Systems:
+
 Workflows: LLM + công cụ → được điều phối theo luồng đã lập trình.
 
 Agents: LLM chủ động quyết định sử dụng công cụ nào, ra quyết định độc lập, có khả năng tự kiểm tra và sửa lỗi.
@@ -79,4 +80,4 @@ Agents: LLM chủ động quyết định sử dụng công cụ nào, ra quyế
 
 Khóa học tham khảo: [The Complete Agentic AI Engineering Course (2025)](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/?couponCode=AGENTIC_AI_25_JUNE)
 
-**Toàn bộ những gì mình chia sẽ đều là những gì mình học và tổng hợp được. No commercial intent!!**
+** Lưu ý: Toàn bộ những gì mình chia sẽ đều là những gì mình học và tổng hợp được. No COMMERCIAL intent!!**
