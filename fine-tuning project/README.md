@@ -155,4 +155,4 @@ https://nvdam.widen.net/s/wlbgbqr7cj/nvidia-learning-training-course-catalog
 Tai lieu tham khao trong video:
 [Llm course](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?srsltid=AfmBOorXXQrsRbJli2ye4GP3ICQCN5g5wUtofSmIx3ef6H6XqdbrC59P&couponCode=KEEPLEARNING)
 
-    
+**Lưu ý: Toàn bộ những gì mình chia sẽ đều là những gì mình học và tổng hợp được. No COMMERCIAL intent!!**
