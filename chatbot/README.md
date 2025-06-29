@@ -55,3 +55,5 @@ Dự án cũng triển khai thử nghiệm kỹ thuật Ensemble Hybrid Retrieva
 assets/image.png
 
 📚 Tham khảo khóa học : [LLM Engineering: Master AI, Large Language Models & Agents](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?srsltid=AfmBOor6WsNolL8DlWIY6aKr7422R23lNaEAPuO61pquAhMiqgvEOyVu&couponCode=KEEPLEARNING)
+
+**Lưu ý: Toàn bộ những gì mình chia sẽ đều là những gì mình học và tổng hợp được. No COMMERCIAL intent!!**
